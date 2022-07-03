@@ -1,0 +1,33 @@
+#!/bin/bash
+#
+#Don't scroll down, just save this as a .sh
+
+#
+#
+#
+#
+#
+#
+
+#
+#
+#
+
+#
+#
+#
+#
+#
+
+#
+#
+
+#
+#
+echo "Something on your system is different, Find it and correct the issue"
+echo "Your hint might be on your wrist"
+echo "Don't read the script, it's cheating and you're better than that"
+
+sudo timedatectl set-timezone Africa/Algiers
+sudo date -s 2000-12-25T12:12:00Z >> /dev/null
+
