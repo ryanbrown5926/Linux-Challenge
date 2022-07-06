@@ -1,5 +1,5 @@
 #!/bin/bash
-#
+# Don't scroll down it's cheating!!!!
 #
 #
 #
